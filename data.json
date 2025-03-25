@@ -7,7 +7,7 @@
             "videoUrl": "https://geo.dailymotion.com/player.html?video=x9gm1yu"
         },
         {
-            "title": "The Blue Dragon",
+            "title": "'Blu' the Blue Dragon",
             "description": "Once upon a time, in a magical kingdom far, far away, there lived a magnificent blue dragon named Blu. Blu was no ordinary dragon; he had striking blue scales that shimmered like the ocean under the moonlight. But what made him truly unique were his big, beautiful blue eyes that sparkled like the stars in the night sky.",
             "thumbnail": "https://i.ibb.co/TBfJ7MYy/The-Blue-Dragon.png",
             "videoUrl": "https://geo.dailymotion.com/player.html?video=x9gnoey"
@@ -25,7 +25,13 @@
             "description": "Victoria Frankenstein creates a creature who learns language and desires companionship but is met with fear and rejection. This leads to isolation, despair, and a tragic end.",
             "thumbnail": "https://i.ibb.co/9kz35XBz/Frankenstein.png",
             "videoUrl": "https://geo.dailymotion.com/player.html?video=x9glyie"
-        }
+        },
+        {
+            "title": "The Eternal Amulet",
+            "description": "A mystical amulet’s power sparks a battle between heroic Guardians and a treacherous sorcerer, forging unity and hope in Eldoria.",
+            "thumbnail": "https://i.ibb.co/g1hYHLG/4b.jpg",
+            "videoUrl": "https://geo.dailymotion.com/player.html?video=x9gqemw"
+        }        
     ],
     "Music": [
         {
@@ -39,6 +45,6 @@
             "description": "Joyful kids' pop anthem about a friendly dragon, with playful sounds and upbeat energy.",
             "thumbnail": "https://i.ibb.co/MxFyPsw6/blu.jpg",
             "videoUrl": "https://player-widget.mixcloud.com/widget/iframe/?light=1&autoplay=1&feed=%2Frevolluos%2Fblu-jingle%2F"
-        }       
+        }        
     ]    
 }
