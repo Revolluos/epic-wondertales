@@ -34,11 +34,11 @@
             "thumbnail": "https://i.ibb.co/vCJtZWZH/Blu-and-Jette.jpg",
             "videoUrl": "https://geo.dailymotion.com/player.html?video=x9gns2a"
         },
-        {
-            "title": "Blue Mist Dreams",
-            "description": "Blue Mist Dreams.",
-            "thumbnail": "https://i.ibb.co/vCJtZWZH/Blu-and-Jette.jpg",
-            "videoUrl": "https://drive.google.com/file/d/1ACd-ZtQZb5m1OSop73Y_loVPwwoZcQuG/preview"
-        }        
+         {
+            "title": "Blu the Dragon",
+            "description": "Joyful kids' pop anthem about a friendly dragon, with playful sounds and upbeat energy.",
+            "thumbnail": "https://i.ibb.co/MxFyPsw6/blu.jpg",
+            "videoUrl": "https://player-widget.mixcloud.com/widget/iframe/?light=1&autoplay=1&feed=%2Frevolluos%2Fblu-jingle%2F"
+        }       
     ]    
 }
