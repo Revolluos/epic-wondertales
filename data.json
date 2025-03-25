@@ -1,0 +1,44 @@
+{
+    "Kids": [
+        {
+            "title": "The Quest of Jette and Blu",
+            "description": "Jette, a girl with chestnut hair, meets a blue dragon named Blu in an ancient forest and they form a strong bond. Together, they embark on a series of adventures, encountering magical creatures and overcoming challenges.",
+            "thumbnail": "https://i.ibb.co/7tYVGxsq/Jette-and-Blu.png",
+            "videoUrl": "https://geo.dailymotion.com/player.html?video=x9gm1yu"
+        },
+        {
+            "title": "The Blue Dragon",
+            "description": "Once upon a time, in a magical kingdom far, far away, there lived a magnificent blue dragon named Blu. Blu was no ordinary dragon; he had striking blue scales that shimmered like the ocean under the moonlight. But what made him truly unique were his big, beautiful blue eyes that sparkled like the stars in the night sky.",
+            "thumbnail": "https://i.ibb.co/TBfJ7MYy/The-Blue-Dragon.png",
+            "videoUrl": "https://geo.dailymotion.com/player.html?video=x9gnoey"
+        },
+        {
+            "title": "The Dreamy Moon Adventure",
+            "description": "Once upon a time, in a land not too far away, there was a sleepy little town called Stardustville. In Stardustville, everyone knew that the best adventures happened when the moon was shining brightly in the night sky. Every night, as the sun set and the stars began to twinkle, the moon would come out to play. The moon was a friendly and gentle creature who loved to watch over the town and its sleepy residents.",
+            "thumbnail": "https://i.ibb.co/0jLzFWsQ/The-Dreamy-Moon-Adventure.png",
+            "videoUrl": "https://geo.dailymotion.com/player.html?video=x9gnqsu"
+        }        
+    ],
+    "Young": [
+        {
+            "title": "Frankenstein",
+            "description": "Victoria Frankenstein creates a creature who learns language and desires companionship but is met with fear and rejection. This leads to isolation, despair, and a tragic end.",
+            "thumbnail": "https://i.ibb.co/9kz35XBz/Frankenstein.png",
+            "videoUrl": "https://geo.dailymotion.com/player.html?video=x9glyie"
+        }
+    ],
+    "Music": [
+        {
+            "title": "The Ballad of Jette and Blu",
+            "description": "Blu a magic dragon that lives by the sea, becomes friends with young Jette.",
+            "thumbnail": "https://i.ibb.co/vCJtZWZH/Blu-and-Jette.jpg",
+            "videoUrl": "https://geo.dailymotion.com/player.html?video=x9gns2a"
+        },
+        {
+            "title": "Blue Mist Dreams",
+            "description": "Blue Mist Dreams.",
+            "thumbnail": "https://i.ibb.co/vCJtZWZH/Blu-and-Jette.jpg",
+            "videoUrl": "https://drive.google.com/file/d/1ACd-ZtQZb5m1OSop73Y_loVPwwoZcQuG/preview"
+        }        
+    ]    
+}
