@@ -17,13 +17,7 @@
             "description": "Once upon a time, in a land not too far away, there was a sleepy little town called Stardustville. In Stardustville, everyone knew that the best adventures happened when the moon was shining brightly in the night sky. Every night, as the sun set and the stars began to twinkle, the moon would come out to play. The moon was a friendly and gentle creature who loved to watch over the town and its sleepy residents.",
             "thumbnail": "https://i.ibb.co/0jLzFWsQ/The-Dreamy-Moon-Adventure.png",
             "videoUrl": "https://geo.dailymotion.com/player.html?video=x9gnqsu"
-        },
-        {
-            "title": "Child of the Wildwood",
-            "description": "An enchanting tale about Kiran, a human boy raised by wolves in a jungle. It follows his upbringing among the animals, mentored by wise creatures like Balu the bear and Bagheera the panther",
-            "thumbnail": "https://i.ibb.co/Fbkpq3dc/Child-of-the-Wildwood.jpg",
-            "videoUrl": "https://geo.dailymotion.com/player.html?video=x9gzlui"
-        }         
+        }        
     ],
     "Young": [
         {
@@ -37,7 +31,13 @@
             "description": "A mystical amulet’s power sparks a battle between heroic Guardians and a treacherous sorcerer, forging unity and hope in Eldoria.",
             "thumbnail": "https://i.ibb.co/g1hYHLG/4b.jpg",
             "videoUrl": "https://geo.dailymotion.com/player.html?video=x9gqemw"
-        }        
+        },
+        {
+            "title": "Child of the Wildwood",
+            "description": "An enchanting tale about Kiran, a human boy raised by wolves in a jungle. It follows his upbringing among the animals, mentored by wise creatures like Balu the bear and Bagheera the panther",
+            "thumbnail": "https://i.ibb.co/Fbkpq3dc/Child-of-the-Wildwood.jpg",
+            "videoUrl": "https://geo.dailymotion.com/player.html?video=x9gzlui"
+        }         
     ],
     "Music": [
         {
