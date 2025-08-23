@@ -35,13 +35,13 @@
         {
             "title": "The Crystal of Aethel-Part 1",
             "description": "An enchanting tale about Kiran, a human boy raised by wolves in a jungle. It follows his upbringing among the animals, mentored by wise creatures like Balu the bear and Bagheera the panther. (4min 27sec)",
-            "thumbnail": "https://i.ibb.co/Fbkpq3dc/Child-of-the-Wildwood.jpg",
+            "thumbnail": "",
             "videoUrl": "https://geo.dailymotion.com/player.html?video=k6VuTDWzEEByOdDHHLW"
         },
         {
             "title": "The Crystal of Aethel-Part 2",
             "description": "An enchanting tale about Kiran, a human boy raised by wolves in a jungle. It follows his upbringing among the animals, mentored by wise creatures like Balu the bear and Bagheera the panther. (4min 27sec)",
-            "thumbnail": "https://i.ibb.co/Fbkpq3dc/Child-of-the-Wildwood.jpg",
+            "thumbnail": "",
             "videoUrl": "https://geo.dailymotion.com/player.html?video=k71z49enhYbD6lDHHFO"
         },        
         {
@@ -66,6 +66,7 @@
         }        
     ]    
 }
+
 
 
 
