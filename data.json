@@ -34,14 +34,14 @@
         },
         {
             "title": "The Crystal of Aethel-Part 1",
-            "description": "",
-            "thumbnail": "",
+            "description": "A young girl named Jette discovers the Crystal of Aethel, a powerful artifact that connects her to the desert and draws the attention of an evil sorcerer named Malakor .",
+            "thumbnail": "https://i.ibb.co/r2tq2Xhs/The-Crystal-of-Aethel-Part-1.png",
             "videoUrl": "https://geo.dailymotion.com/player.html?video=k6VuTDWzEEByOdDHHLW"
         },
         {
             "title": "The Crystal of Aethel-Part 2",
-            "description": "",
-            "thumbnail": "",
+            "description": "Jette's escape from Malakor's forces with the crystal, her meeting with an old wanderer named Kaelen, and her beginning to learn to control the crystal's power.",
+            "thumbnail": "https://i.ibb.co/ZCMkwYV/The-Crystal-of-Aethel-Part-2.png",
             "videoUrl": "https://geo.dailymotion.com/player.html?video=k71z49enhYbD6lDHHFO"
         },        
         {
@@ -66,6 +66,7 @@
         }        
     ]    
 }
+
 
 
 
