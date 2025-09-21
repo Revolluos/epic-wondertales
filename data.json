@@ -49,6 +49,12 @@
             "description": "A mystical amulet’s power sparks a battle between heroic Guardians and a treacherous sorcerer, forging unity and hope in Eldoria. (7min 33sec)",
             "thumbnail": "https://i.ibb.co/g1hYHLG/4b.jpg",
             "videoUrl": "https://geo.dailymotion.com/player.html?video=x9gqemw"
+        },
+        {
+            "title": "The Great Muffin Caper",
+            "description": "Veteran detective Sam Hartwell’s hunt for stolen muffins spirals into a poignant satire on policing and human nature. (6min 16sec)",
+            "thumbnail": "https://i.ibb.co/Vp3xDRjH/The-Great-Muffin-Caper.png",
+            "videoUrl": "https://geo.dailymotion.com/player.html?video=x9qx2qy"
         }        
     ],
     "Music": [
@@ -66,12 +72,3 @@
         }        
     ]    
 }
-
-
-
-
-
-
-
-
-
